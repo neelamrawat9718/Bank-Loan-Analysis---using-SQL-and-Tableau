@@ -1,5 +1,7 @@
 # Bank Loan Analysis using SQL and Tableau
 Problem Statement - Need to create a Bank Loan Report to track and evaluate our lending activities. This report will give us key loan metrics, show changes over time, and help us make informed decisions about loan portfolio and strategies.
+![image](https://github.com/user-attachments/assets/3e8c450d-9cd2-40a9-8dc1-871e1eba68a1)
+
 
 Key Performance Indicators (KPIs) Requirements:
 
