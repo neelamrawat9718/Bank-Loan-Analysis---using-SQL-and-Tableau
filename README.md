@@ -1,7 +1,10 @@
 # Bank Loan Analysis using SQL and Tableau
-Problem Statement - Need to create a Bank Loan Report to track and evaluate our lending activities. This report will give us key loan metrics, show changes over time, and help us make informed decisions about loan portfolio and strategies.
+![image](https://github.com/user-attachments/assets/bf38e39b-803d-4d3f-9888-496b727f0b55)
 
-Key Performance Indicators (KPIs) Requirements:
+
+**Problem Statement** - Need to create a Bank Loan Report to track and evaluate our lending activities. This report will give us key loan metrics, show changes over time, and help us make informed decisions about loan portfolio and strategies.
+
+**Key Performance Indicators (KPIs) Requirements**:
 
 Total Loan Applications: Count the total loan applications received in a specified period. Track the applications for the current month (MTD) and compare them month-over-month (MoM).
 Total Funded Amount: Calculate the total amount of loans disbursed. Monitor the MTD funded amount and compare it MoM.
@@ -27,7 +30,9 @@ Create a grid view report by loan status to monitor performance, including metri
 
 I utilized Microsoft SQL Server and Tableau to identify key performance indicators (KPIs) and present them in comprehensive dashboards.
 
-Conclusions:-Based on the analysis using the provided KPIs, several important conclusions about the bank's lending activities and overall performance:
+# Conclusions:
+Based on the analysis using the provided KPIs, several important conclusions about the bank's lending activities and overall performance:
+
 Loan Applications and Funded Amounts:
 The bank received a total of 33.6k loan applications.
 Out of these applications, a total of $376 million was funded.
