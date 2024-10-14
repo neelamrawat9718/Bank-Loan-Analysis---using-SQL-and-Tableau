@@ -28,8 +28,6 @@ Bad Loan Total Received Amount: Total repayments received for 'Bad Loans' (Charg
 Loan Status Grid View:
 Create a grid view report by loan status to monitor performance, including metrics like Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI. This will help us make data-driven decisions and assess the loan portfolio's health.
 
-I utilized Microsoft SQL Server and Tableau to identify key performance indicators (KPIs) and present them in comprehensive dashboards.
-
 # Conclusions:
 Based on the analysis using the provided KPIs, several important conclusions about the bank's lending activities and overall performance:
 
